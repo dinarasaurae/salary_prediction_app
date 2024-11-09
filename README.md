@@ -1,3 +1,3 @@
 # salary_prediction_app
 
-[Salary_prediction.pdf](Презентация)
+[Презентация](Salary_Prediction.pdf)
